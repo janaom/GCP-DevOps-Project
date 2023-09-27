@@ -10,3 +10,5 @@
     - Deploy to production and validate if you can access the endpoint via the load balancer IP
     - Increase the replica count to 5 and deploy the changes
 
+![image](https://github.com/janaom/GCP-DevOps-Project/assets/83917694/545784bf-4126-484b-9390-7a685798c393)
+

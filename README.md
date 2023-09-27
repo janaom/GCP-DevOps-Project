@@ -4,9 +4,9 @@
     - Code a basic flask application, test it locally and push this code to the main branch
     - Create your GCP account and set up a budget alert for 20 USD	
     - Connect Cloud Build trigger to GitHub repo
-    - Creating a namespace on our GKE cluster
+    - Creating a namespace on the GKE cluster
     - Deploy an application to GKE and validate the deployment
-    - Update the code also to contain service as a type load balancer.
+    - Update the code also to contain service as a type load balancer
     - Deploy to production and validate if you can access the endpoint via the load balancer IP
     - Increase the replica count to 5 and deploy the changes
 
